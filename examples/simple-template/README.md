@@ -13,9 +13,9 @@ template-html sources/index.html -t sources/template.html -o build/
 or analogously via node:
 
 ```
-var fs = require('fs'),
-    path = require('path'),
-    Templator = require('./');
+var fs = require('fs');
+var path = require('path');
+var Templator = require('./');
 
 var template = new Templator('sources/template.html');
 var output = template.processFile('sources/index.html');

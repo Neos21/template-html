@@ -13,9 +13,9 @@ $ template-html --preserve-tree sources/file{1,2}/index.html -t sources/template
 or analogously via node:
 
 ```js
-var fs = require('fs'),
-    path = require('path'),
-    Templator = require('./');
+var fs = require('fs');
+var path = require('path');
+var Templator = require('./');
 
 var template = new Templator({
   preserveTree: true,
