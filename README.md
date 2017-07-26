@@ -8,7 +8,7 @@ Generate static HTML files from templates and content files.
 ## Installation
 
 ```sh
-$ npm install -g template-html
+$ npm install -g @neos21/template-html
 ```
 
 
