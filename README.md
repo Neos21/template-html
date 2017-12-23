@@ -102,3 +102,21 @@ Generate HTML from template file and content file
 ## License
 
 See the [LICENSE](./LICENSE) file.
+
+
+## Author
+
+[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
+
+- [GitHub - template-html](https://github.com/Neos21GitHub/template-html)
+- [npm - @neos21/template-html](https://www.npmjs.com/package/@neos21/template-html)
+
+
+## Links
+
+- [Neo's World](http://neo.s21.xrea.com/)
+- [Corredor](http://neos21.hatenablog.com/)
+- [Murga](http://neos21.hatenablog.jp/)
+- [El Mylar](http://neos21.hateblo.jp/)
+- [Bit-Archer](http://bit-archer.hatenablog.com/)
+- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
