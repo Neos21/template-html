@@ -1,6 +1,6 @@
 {
   "name": "@neos21/template-html",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate static HTML files from templates and content files",
   "main": "index.js",
   "bin": {
@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/Neos21/template-html#readme",
   "dependencies": {
-    "minimist": "~1.2.0",
-    "mkdirp": "^0.5.1"
+    "minimist": "1.2.0",
+    "mkdirp": "0.5.1"
   },
   "devDependencies": {
-    "tape": "^4.5.1"
+    "tape": "4.9.0"
   }
 }
