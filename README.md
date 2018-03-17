@@ -108,7 +108,7 @@ See the [LICENSE](./LICENSE) file.
 
 [Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/neos21))
 
-- [GitHub - template-html](https://github.com/Neos21GitHub/template-html)
+- [GitHub - template-html](https://github.com/Neos21/template-html)
 - [npm - @neos21/template-html](https://www.npmjs.com/package/@neos21/template-html)
 
 
@@ -119,4 +119,4 @@ See the [LICENSE](./LICENSE) file.
 - [Murga](http://neos21.hatenablog.jp/)
 - [El Mylar](http://neos21.hateblo.jp/)
 - [Bit-Archer](http://bit-archer.hatenablog.com/)
-- [GitHub - Neos21GitHub](https://github.com/Neos21GitHub/)
+- [GitHub - Neos21](https://github.com/Neos21/)

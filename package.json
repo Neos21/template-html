@@ -1,6 +1,6 @@
 {
   "name": "@neos21/template-html",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate static HTML files from templates and content files",
   "main": "index.js",
   "bin": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neos21GitHub/template-html.git"
+    "url": "git+https://github.com/Neos21/template-html.git"
   },
   "author": "Neos21 <neos21@gmail.com> (http://neo.s21.xrea.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neos21GitHub/template-html/issues"
+    "url": "https://github.com/Neos21/template-html/issues"
   },
-  "homepage": "https://github.com/Neos21GitHub/template-html#readme",
+  "homepage": "https://github.com/Neos21/template-html#readme",
   "dependencies": {
     "minimist": "~1.2.0",
     "mkdirp": "^0.5.1"
