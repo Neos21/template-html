@@ -1,6 +1,6 @@
 {
   "name": "@neos21/template-html",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generate static HTML files from templates and content files",
   "main": "index.js",
   "bin": {
