@@ -1,4 +1,4 @@
-# template-html
+# template-html : @neos21/template-html
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/template-html.svg)](https://www.npmjs.com/package/@neos21/template-html)
 
