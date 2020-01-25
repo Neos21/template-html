@@ -106,7 +106,7 @@ See the [LICENSE](./LICENSE) file.
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 - [GitHub - template-html](https://github.com/Neos21/template-html)
 - [npm - @neos21/template-html](https://www.npmjs.com/package/@neos21/template-html)
