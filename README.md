@@ -1,6 +1,6 @@
 # template-html : @neos21/template-html
 
-[![NPM Version](https://img.shields.io/npm/v/@neos21/template-html.svg)](https://www.npmjs.com/package/@neos21/template-html)
+[![NPM Version](https://img.shields.io/npm/v/@neos21/template-html.svg)](https://www.npmjs.com/package/@neos21/template-html) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/template-html?label=github)](https://github.com/Neos21/template-html/packages/328041)
 
 Generate static HTML files from templates and content files.
 
