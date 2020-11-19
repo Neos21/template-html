@@ -1,4 +1,4 @@
-# template-html : @neos21/template-html
+# @neos21/template-html : template-html
 
 [![NPM Version](https://img.shields.io/npm/v/@neos21/template-html.svg)](https://www.npmjs.com/package/@neos21/template-html) [![GPR Version](https://img.shields.io/github/package-json/v/neos21/template-html?label=github)](https://github.com/Neos21/template-html/packages/328041)
 
@@ -104,19 +104,9 @@ Generate HTML from template file and content file
 See the [LICENSE](./LICENSE) file.
 
 
-## Author
-
-[Neo](http://neo.s21.xrea.com/)
-
-- [GitHub - template-html](https://github.com/Neos21/template-html)
-- [npm - @neos21/template-html](https://www.npmjs.com/package/@neos21/template-html)
-
-
 ## Links
 
-- [Neo's World](http://neo.s21.xrea.com/)
-- [Corredor](https://neos21.hatenablog.com/)
-- [Murga](https://neos21.hatenablog.jp/)
-- [El Mylar](https://neos21.hateblo.jp/)
-- [Neo's GitHub Pages](https://neos21.github.io/)
+- [Neo's World](https://neos21.net/)
 - [GitHub - Neos21](https://github.com/Neos21/)
+- [GitHub - template-html](https://github.com/Neos21/template-html)
+- [npm - @neos21/template-html](https://www.npmjs.com/package/@neos21/template-html)
